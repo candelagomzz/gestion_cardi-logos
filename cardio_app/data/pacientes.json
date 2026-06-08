@@ -1,0 +1,12 @@
+[
+  { "nombre": "Roberto",   "apellidos": "Alonso Mora",     "genero": "male",    "fecha_nacimiento": "1965-03-12", "activo": true },
+  { "nombre": "Carmen",    "apellidos": "Vega Herrera",    "genero": "female",  "fecha_nacimiento": "1972-07-25", "activo": true },
+  { "nombre": "Francisco", "apellidos": "Navarro León",    "genero": "male",    "fecha_nacimiento": "1958-11-08", "activo": true },
+  { "nombre": "Elena",     "apellidos": "Castro Iglesias", "genero": "female",  "fecha_nacimiento": "1980-04-30", "activo": true },
+  { "nombre": "Manuel",    "apellidos": "Ortega Cano",     "genero": "male",    "fecha_nacimiento": "1945-09-15", "activo": true },
+  { "nombre": "Isabel",    "apellidos": "Rubio Medina",    "genero": "female",  "fecha_nacimiento": "1991-02-17", "activo": true },
+  { "nombre": "Antonio",   "apellidos": "Delgado Cruz",    "genero": "male",    "fecha_nacimiento": "1963-06-22", "activo": false },
+  { "nombre": "Lucía",     "apellidos": "Molina Serrano",  "genero": "female",  "fecha_nacimiento": "1988-12-03", "activo": true },
+  { "nombre": "Pedro",     "apellidos": "Santos Ramos",    "genero": "male",    "fecha_nacimiento": "1970-05-18", "activo": true },
+  { "nombre": "Sofía",     "apellidos": "Jiménez Blanco",  "genero": "female",  "fecha_nacimiento": "1955-10-09", "activo": true }
+]

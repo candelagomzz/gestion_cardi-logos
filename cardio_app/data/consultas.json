@@ -1,0 +1,119 @@
+[
+  {
+    "dia": "02/06/2025",
+    "hora_inicio": "09:00",
+    "hora_fin": "09:30",
+    "medico_dni": "34567890C",
+    "estado": "atendida",
+    "_paciente_ref": "Roberto Alonso Mora",
+    "comentario": "Paciente con tensión elevada. Se pauta medicación."
+  },
+  {
+    "dia": "02/06/2025",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:00",
+    "medico_dni": "34567890C",
+    "estado": "atendida",
+    "_paciente_ref": "Carmen Vega Herrera",
+    "comentario": "Revisión rutinaria. Valores normales."
+  },
+  {
+    "dia": "02/06/2025",
+    "hora_inicio": "10:00",
+    "hora_fin": "10:30",
+    "medico_dni": "34567890C",
+    "estado": "cancelada",
+    "_paciente_ref": "Francisco Navarro León",
+    "comentario": "Paciente no se presentó a la cita."
+  },
+  {
+    "dia": "03/06/2025",
+    "hora_inicio": "10:00",
+    "hora_fin": "10:30",
+    "medico_dni": "34567890C",
+    "estado": "atendida",
+    "_paciente_ref": "Elena Castro Iglesias",
+    "comentario": "Control post-operatorio satisfactorio."
+  },
+  {
+    "dia": "03/06/2025",
+    "hora_inicio": "10:30",
+    "hora_fin": "11:00",
+    "medico_dni": "34567890C",
+    "estado": "ocupada",
+    "_paciente_ref": "Manuel Ortega Cano",
+    "comentario": null
+  },
+  {
+    "dia": "04/06/2025",
+    "hora_inicio": "11:00",
+    "hora_fin": "11:30",
+    "medico_dni": "34567890C",
+    "estado": "libre",
+    "paciente_id": null,
+    "comentario": null
+  },
+  {
+    "dia": "05/06/2025",
+    "hora_inicio": "09:00",
+    "hora_fin": "09:30",
+    "medico_dni": "34567890C",
+    "estado": "libre",
+    "paciente_id": null,
+    "comentario": null
+  },
+  {
+    "dia": "06/06/2025",
+    "hora_inicio": "12:00",
+    "hora_fin": "12:30",
+    "medico_dni": "34567890C",
+    "estado": "eliminada",
+    "paciente_id": null,
+    "comentario": "Día festivo local."
+  },
+  {
+    "dia": "02/06/2025",
+    "hora_inicio": "11:00",
+    "hora_fin": "11:30",
+    "medico_dni": "45678901D",
+    "estado": "atendida",
+    "_paciente_ref": "Isabel Rubio Medina",
+    "comentario": "Paciente refiere mareos ocasionales."
+  },
+  {
+    "dia": "02/06/2025",
+    "hora_inicio": "11:30",
+    "hora_fin": "12:00",
+    "medico_dni": "45678901D",
+    "estado": "libre",
+    "paciente_id": null,
+    "comentario": null
+  },
+  {
+    "dia": "04/06/2025",
+    "hora_inicio": "09:00",
+    "hora_fin": "09:30",
+    "medico_dni": "45678901D",
+    "estado": "ocupada",
+    "_paciente_ref": "Lucía Molina Serrano",
+    "comentario": null
+  },
+  {
+    "dia": "04/06/2025",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:00",
+    "medico_dni": "45678901D",
+    "estado": "libre",
+    "paciente_id": null,
+    "comentario": null
+  },
+  {
+    "dia": "06/06/2025",
+    "hora_inicio": "10:00",
+    "hora_fin": "10:30",
+    "medico_dni": "45678901D",
+    "estado": "libre",
+    "paciente_id": null,
+    "comentario": null
+  }
+]

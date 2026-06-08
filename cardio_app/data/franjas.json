@@ -1,0 +1,15 @@
+[
+  { "dia": "lunes",     "hora_inicial": "09:00", "hora_final": "09:30", "medico_dni": "34567890C" },
+  { "dia": "lunes",     "hora_inicial": "09:30", "hora_final": "10:00", "medico_dni": "34567890C" },
+  { "dia": "lunes",     "hora_inicial": "10:00", "hora_final": "10:30", "medico_dni": "34567890C" },
+  { "dia": "martes",    "hora_inicial": "10:00", "hora_final": "10:30", "medico_dni": "34567890C" },
+  { "dia": "martes",    "hora_inicial": "10:30", "hora_final": "11:00", "medico_dni": "34567890C" },
+  { "dia": "miercoles", "hora_inicial": "11:00", "hora_final": "11:30", "medico_dni": "34567890C" },
+  { "dia": "jueves",    "hora_inicial": "09:00", "hora_final": "09:30", "medico_dni": "34567890C" },
+  { "dia": "viernes",   "hora_inicial": "12:00", "hora_final": "12:30", "medico_dni": "34567890C" },
+  { "dia": "lunes",     "hora_inicial": "11:00", "hora_final": "11:30", "medico_dni": "45678901D" },
+  { "dia": "lunes",     "hora_inicial": "11:30", "hora_final": "12:00", "medico_dni": "45678901D" },
+  { "dia": "miercoles", "hora_inicial": "09:00", "hora_final": "09:30", "medico_dni": "45678901D" },
+  { "dia": "miercoles", "hora_inicial": "09:30", "hora_final": "10:00", "medico_dni": "45678901D" },
+  { "dia": "viernes",   "hora_inicial": "10:00", "hora_final": "10:30", "medico_dni": "45678901D" }
+]

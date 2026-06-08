@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "Carlos",
+    "apellidos": "García Pérez",
+    "dni": "12345678A",
+    "rol": "administrador",
+    "contrasena": "Admin12ab",
+    "activo": true
+  },
+  {
+    "nombre": "María",
+    "apellidos": "López Sánchez",
+    "dni": "23456789B",
+    "rol": "auxiliar",
+    "contrasena": "Aux11iliar",
+    "activo": true
+  },
+  {
+    "nombre": "José",
+    "apellidos": "Martínez Ruiz",
+    "dni": "34567890C",
+    "rol": "medico",
+    "contrasena": "Doctor12x",
+    "activo": true
+  },
+  {
+    "nombre": "Ana",
+    "apellidos": "Fernández Torres",
+    "dni": "45678901D",
+    "rol": "medico",
+    "contrasena": "Medic12ab",
+    "activo": true
+  },
+  {
+    "nombre": "Luis",
+    "apellidos": "Gómez Díaz",
+    "dni": "56789012E",
+    "rol": "auxiliar",
+    "contrasena": "Aux22iliar",
+    "activo": false
+  }
+]
