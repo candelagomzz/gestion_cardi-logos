@@ -70,8 +70,12 @@ def crear_tabla(parent, columnas: List[Tuple[str, int]], alto: int = 15) -> ttk.
 
     estilo = ttk.Style()
     estilo.configure("App.Treeview", font=FUENTE_NORMAL, rowheight=24, background="white")
-    estilo.configure("App.Treeview.Heading", font=FUENTE_SUBTITULO, background=COLOR_PRIMARIO,
-                     foreground="white")
+    estilo.configure(
+        "App.Treeview.Heading",
+        font=FUENTE_SUBTITULO,
+        background=COLOR_SECUNDARIO,
+        foreground=COLOR_TEXTO
+    )
     estilo.map("App.Treeview", background=[("selected", COLOR_SECUNDARIO)],
                foreground=[("selected", COLOR_TEXTO)])
 
